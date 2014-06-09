@@ -13,7 +13,6 @@ trackWidth = skinvars["trackwidth"]
 curvescaler = skinvars["curvescaler"] or 1
 steepscaler = skinvars["steepscaler"] or 1
  
- --poep
 --trackWidth = 16 -- uses a wide water track even for vehicles
 fullsteep = jumping or skinvars.prefersteep
 
